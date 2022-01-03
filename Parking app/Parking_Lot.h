@@ -1,8 +1,10 @@
 #pragma once
 #include "Parking_Spot.h"
+#include "Utilities.h"
 
 #include <vector>
 #include <string>
+#include <algorithm>
 
 class Parking_Lot
 {
@@ -13,6 +15,6 @@ private:
 
 public:
 	Parking_Lot(int numOfSpots, std::string address);
-
+	void display();
 };
 

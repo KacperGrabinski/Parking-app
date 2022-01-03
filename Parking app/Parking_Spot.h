@@ -1,4 +1,7 @@
 #pragma once
+#include <iostream>
+#include <iomanip>
+
 class Parking_Spot
 {
 private:
@@ -9,6 +12,6 @@ private:
 
 public:
 	Parking_Spot(int num);
-	void dispaly();
+	void display();
 };
 

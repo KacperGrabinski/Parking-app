@@ -1,3 +1,6 @@
 ﻿  Main.cpp
-C:\Users\Kacper\Desktop\Projects\Parking App\Parking App\Main.cpp(9,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Kacper\Desktop\Projects\Parking App\Parking App\Main.cpp(10,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Parking_Lot.cpp
+  Utilities.cpp
+  Generating Code...
   Parking app.vcxproj -> C:\Users\Kacper\Desktop\Projects\Parking App\Parking App\Debug\Parking app.exe
